@@ -1,0 +1,15 @@
+body {
+    text-align: center
+    }
+    .img-responsive {
+      max-width: 100%;
+      display: block;
+      margin: 0 auto;
+    }
+    #tribute-info{
+        width: 50%;
+        margin: 0 auto;
+    }
+    .accomplishments {
+      text-align: left;
+    }
